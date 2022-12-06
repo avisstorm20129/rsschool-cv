@@ -18,3 +18,15 @@ Highly motivated to develop my skills and grow professionally. I am sure in my a
 
 
 Currently I work online as an English language teacher. In future I would like to become a Front-end developer. 
+
+
+# Education
+
+
+*2018 - 2022:* Tomsk State University - Linguistics
+
+
+# Language
+
+Russian - native \
+English - C1
